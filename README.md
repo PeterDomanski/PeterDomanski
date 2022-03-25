@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeterDomanski
 - 👀 I’m interested in Machine Learning with focus on Deep Learning and Reinforcement Learning
-- 🌱 I’m currently learning siliconßbased testing strategies
+- 🌱 I’m currently learning silicon-based testing strategies in the area of Post-Silicon Validation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me domanski.p@gmx.de
 
