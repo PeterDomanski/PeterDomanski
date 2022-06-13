@@ -1,3 +1,5 @@
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterDomanski)](https://github.com/PeterDomanski/github-readme-stats)
+
 - 👋 Hi, I’m @PeterDomanski
 - 👀 I’m interested in Machine Learning with focus on Deep Learning and Reinforcement Learning
 - 🌱 I’m currently learning silicon-based testing strategies in the area of Post-Silicon Validation
