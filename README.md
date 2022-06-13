@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeterDomanski
 - 👀 I’m interested in Machine Learning with focus on Deep Learning and Reinforcement Learning
 - 🌱 I’m currently learning silicon-based testing strategies in the area of Post-Silicon Validation
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data-driven algorithm design ('learn-to-optimize')
 - 📫 How to reach me domanski.p@gmx.de
 
 [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterDomanski&show_icons=true&theme=tokyonight)](https://github.com/PeterDomanski/github-readme-stats)
