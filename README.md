@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on data-driven algorithm design ('learn-to-optimize')
 - 📫 How to reach me domanski.p@gmx.de
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=domanspr&show_icons=true&theme=tokyonight)](https://github.com/domanspr/github-readme-stats)
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterDomanski&show_icons=true&theme=tokyonight)](https://github.com/domanspr/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doamsnpr)](https://github.com/PeterDomanski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterDomanski)](https://github.com/domanspr/github-readme-stats)
 
 <!---
 PeterDomanski/PeterDomanski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
